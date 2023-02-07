@@ -11,5 +11,4 @@ for i in range(1, n):
     print(z)
     x = y
     y = z
-    vxcvxcvxcv
-    cxvxcvxcvx
+    
